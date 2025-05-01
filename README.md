@@ -9,7 +9,7 @@ Model Training: Training and evaluating models for accurate house price predicti
 
 Visualization: Visualizing data and model performance.
 
-## bTechnologies Used
+## Technologies Used
 Python
 
 Scikit-learn
