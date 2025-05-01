@@ -23,14 +23,16 @@ Jupyter Notebook
 ## Dataset
 The project uses a publicly available dataset (e.g., from Kaggle or UCI) with features like house size, location, and age to predict the target variable (price).
 
-## Installation
-Clone the repository:
---bash
-git clone https://github.com/yourusername/house-price-prediction.git
+## Usage
+Run the Jupyter Notebook (house_price_prediction.ipynb) or Python script (train_model.py) to train and evaluate the models.
 
+## Installation
+```bash
+Clone the repository:
+git clone https://github.com/anushhaaa12/house-price-prediction.git
 
 ## Install dependencies:
 --bash
 pip install -r requirements.txt
-## Usage
-Run the Jupyter Notebook (house_price_prediction.ipynb) or Python script (train_model.py) to train and evaluate the models.
+
+
